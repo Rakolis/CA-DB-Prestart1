@@ -1,2 +1,2 @@
 # CA-DB-Prestart1
-CA kursai darbo birza atrask save Prestart 1
+CA kursai Prestart 1
